@@ -1,0 +1,5 @@
+{
+    "SECRET_KEY": "foobarbaz",
+    "ALLOWED_HOSTS": "foo.bar",
+    "DB_PASSWORD": "fooBar123"
+}
